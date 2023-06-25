@@ -14,3 +14,10 @@ Ememete Akpan
 [follow @emyofficial](http://twitter.com/emeyofficial) on twitter. 
 
  [*Uptopgit*](https://emeyofficial.github.io/uptopgit/)
+
+
+ 
+ 
+ # References
+
+[Git Documentation](https://gist.github.com/albatrocity/1201187)
